@@ -13,6 +13,7 @@
 // limitations under the License.
 
 package {
+    default_team: "trendy_team_applications_google_wide_",
     default_applicable_licenses: ["Android-Apache-2.0"],
 }
 
@@ -26,6 +27,7 @@ android_test {
     static_libs: [
         "libchips",
         "junit",
+        "androidx.test.rules",
     ],
     libs: ["android.test.base.stubs"],
 }
