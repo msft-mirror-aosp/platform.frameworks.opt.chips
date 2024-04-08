@@ -23,7 +23,7 @@
     <string name="accessbility_suggestion_dropdown_opened" msgid="9015267358421989409">"Ponuka Návrhy kontaktov je otvorená"</string>
     <string name="accessbility_suggestion_dropdown_closed" msgid="91481373431329121">"K dispozícii nie sú žiadne návrhy"</string>
     <string name="dropdown_delete_button_desc" msgid="4359394656487762022">"Odstrániť kontakt <xliff:g id="CONTACT">%s</xliff:g> z príjemcov"</string>
-    <string name="chips_action_copy" msgid="6984158516334578792">"Kopírovať"</string>
+    <string name="chips_action_copy" msgid="6984158516334578792">"Skopírovať"</string>
     <string name="chips_action_cancel" msgid="2582257014578396781">"Zrušiť"</string>
     <string name="chips_permission_text" msgid="5601284803674008863">"Povoliť návrhy kontaktov"</string>
 </resources>
