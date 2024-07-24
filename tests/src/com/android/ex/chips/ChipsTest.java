@@ -24,11 +24,12 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.test.AndroidTestCase;
-import android.test.suitebuilder.annotation.SmallTest;
 import android.text.Editable;
 import android.text.SpannableStringBuilder;
 import android.text.util.Rfc822Tokenizer;
 import android.widget.TextView;
+
+import androidx.test.filters.SmallTest;
 
 import com.android.ex.chips.recipientchip.DrawableRecipientChip;
 import com.android.ex.chips.recipientchip.ReplacementDrawableSpan;
